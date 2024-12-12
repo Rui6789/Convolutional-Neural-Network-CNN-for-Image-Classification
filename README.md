@@ -1,8 +1,9 @@
 # CNN for Image Classification
-1.Installations
+**1.Installations**
+
 The project requires the following Python libraries:
 
-· numpy
+**·**numpy
 
 · pandas
 
