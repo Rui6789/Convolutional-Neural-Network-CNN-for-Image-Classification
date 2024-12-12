@@ -1,2 +1,9 @@
-# Mingrui-Ma-0447039-Final-Project
-111
+# CNN for Image Classification
+1.Installations
+The project requires the following Python libraries:
+numpy
+pandas
+matplotlib
+tensorflow (including Keras)
+os
+pathlib
