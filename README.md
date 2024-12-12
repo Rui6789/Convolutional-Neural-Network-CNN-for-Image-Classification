@@ -30,7 +30,7 @@ The project consists of the following files:
 - cnn_dog_cat.py: The report of my project is called 'CNN for Image Classification.ipynb.'
 
 ### 4. Results
-The final CNN model achieves an accuracy of approximately 99% on the test set, demonstrating its effectiveness in classifying dog and cat images. The model can then be used to make predictions on new, unseen images. The main findings of the code can be found at the post on Medium available [here]?
+The final CNN model achieves an accuracy of approximately 99% on the test set, demonstrating its effectiveness in classifying dog and cat images. The model can then be used to make predictions on new, unseen images. The main findings of the code can be found at the post on Medium available [here](https://medium.com/@mma1_65597/convolutional-neural-network-for-dog-vs-cat-image-classification-79a2af9717a3)
 
 ### 5. Licensing, Authors, Acknowledgements, etc.
 
