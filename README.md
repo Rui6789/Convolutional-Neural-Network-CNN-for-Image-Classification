@@ -22,6 +22,8 @@ The key steps in the project are:
 - Making Predictions on Single Images: Finally, the trained model is used to make predictions on the single images in the "single_prediction" folder. The predicted class (dog or cat) is printed for each image.
 
 ### 3. File Descriptions
+The dataset can be downloaded [here](https://drive.google.com/file/d/1Rq98J1gHTnfOaNCvX41tThi4-Pe80loA/view?usp=sharing)
+
 The project consists of the following files:
 
 - train_set: This directory contains the training dataset, with 4000 dog images and 4000 cat images.
